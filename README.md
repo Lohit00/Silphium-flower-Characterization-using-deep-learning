@@ -1,3 +1,5 @@
+Project Contributors : - Lohit Akkineni & Dheeraj Kumar Jallipalli
+
 Data Annotation.py has code that compares the original and segmented images side by side for visual comparison, from this, we can know how good is our image from the original image.
 
 Merging_ExcelFIles.py is used for merging all Excel files into a single file
